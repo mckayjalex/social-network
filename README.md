@@ -46,7 +46,7 @@ Note: This application is only a partial app and it can be tested using Insomnia
 
 [Github Repo](https://github.com/mckayjalex/social-network)
 
-[Walkthrough](https://youtu.be/1rdmgJouc8c)
+[Walkthrough](https://youtu.be/ClW8YNCbcu8)
 
 ## Contact
 
